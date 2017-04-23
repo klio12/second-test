@@ -12,6 +12,10 @@ _italic_ *italic*
 * list
   * sublist
 
+- unordered list element 1
+- unordered list element 2
+- unordered list element 3
+
 horizontal line
 ***
 ---
@@ -22,3 +26,7 @@ horizontal line
 # code block
 text
 ```
+
+[yahoo link] (http://www.yahoo.com)
+[yahoo link][1]  
+[1]: http://yahoo.com "Yahoo link"
